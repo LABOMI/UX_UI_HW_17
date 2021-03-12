@@ -7,8 +7,7 @@ body{
     display:flex;
     justify-content:space-between;
     align-items:center;
-    border-bottom: 2px solid white;
-    
+    border-bottom: 2px solid grey;
 }
 .nav{
     color:white;
@@ -24,7 +23,7 @@ body{
     display:flex;
     justify-content:center;
     align-items:center;
-    border-top: 2px solid white;
+    border-top: 2px solid grey;
 }
 #Copyright{
     color:white;
@@ -33,7 +32,4 @@ body{
     right: 15%;
     top: 30%;
     font-size:small;
-    
-
-    
 }
